@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://http://wwww.sweet-perdition.net/sitemap.xml 
