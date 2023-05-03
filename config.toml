@@ -1,0 +1,6 @@
+baseURL = 'http://terakrk.github.io'
+languageCode = 'en-us'
+title = 'Sweet Perdition'
+theme = 'hugo-PaperMod'
+[permalinks] 
+	post = ':slug'
