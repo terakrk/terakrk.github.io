@@ -5,11 +5,12 @@ published: true
 date: 2017-04-25
 summary: "Fortunately, this little book is not a manual for forcing kids to do what you want."
 ---
-![Book Cover for Supporting Positive Behavior in Children and Teens With Down Syndrome](/images/positivebehaviords.jpg)
 
 Seeing Dr. David Stein’s [*Supporting Positive Behavior in Children and Teens with Down Syndrome*](https://www.amazon.com/Supporting-Positive-Behavior-Children-Syndrome/dp/1606132636) on the “New Books” shelf at the library, my first thought was: “Dear God! This sounds *awful!”* The title might as well have been “How to Force Kids to Comply and Punish Them When They Don’t.” But I checked out the blurb on the back anyway, because, as Lemony Snicket has taught us, warning somebody not to read something is a surefire way to get them to read it. Even–perhaps especially–if the one doing the warning is yourself.
 
 Fortunately, Dr. Stein’s little book is *not* a manual for forcing kids to do what you want.
+
+![Cover of 'Supporting Positive Behavior in Children and Teens with Downs Syndrome'](positivebehaviords.jpg)
 
 As a pediatric psychologist with a background in neuropsychology, Stein points out that behavior is communication–something many self-advocates have said. If someone enjoys reading class but hides under her desk when it’s time for math every day, Dr. Stein says to look at what could be wrong with math class. Is it taught the way she needs to learn? Is there a conflict with the teacher? Just punishing the student doesn’t work.
 
